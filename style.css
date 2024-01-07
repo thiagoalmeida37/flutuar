@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#main {
+    width: 626px;
+    margin: 64px auto 64px;
+    }
+
+#main img {
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 56px;
+    font-weight: normal;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+h1 span {
+    font-weight: bold;
+    color: #EE24FF;
+}
+
+p {
+    color: #828282;
+}
+
+p span {
+    color: #828282;
+}
+
+.bold {
+    text-decoration:none;
+    color:#3F3D56
+}
+
+.line {
+    width: 391px;
+    height: 0px;
+  
+    margin: 0 auto 8px;
+  
+    border: 1px solid #ECEFF2;
+  }
+
+#footer a + a {
+    margin-left: 28px;
+    margin-bottom: 40px;
+}
+
+#wave {
+    margin-top: 40px;
+}
+
